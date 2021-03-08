@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "development": "impargo-landingpage",
+    "production": "impargo-landingpage-production"
+  }
+}
